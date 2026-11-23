@@ -40,4 +40,4 @@ title: Today Mind 이용약관
 
 ## 9. 문의
 
-[GitHub 문의 페이지](https://github.com/dawn-Wi/todaymind-privacy/issues)
+[wi08250102@gmail.com](mailto:wi08250102@gmail.com)

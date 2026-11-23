@@ -64,7 +64,7 @@ Today Mind(이하 "앱")는 개발자 Daun Wi(이하 "개발자")가 운영합�
 
 개인정보 보호책임자: Daun Wi
 
-문의: [GitHub 문의 페이지](https://github.com/dawn-Wi/todaymind-privacy/issues)
+문의: [wi08250102@gmail.com](mailto:wi08250102@gmail.com)
 
 ## 11. 방침의 변경
 
